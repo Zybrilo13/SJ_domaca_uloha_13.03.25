@@ -39,25 +39,25 @@ https://templatemo.com/tm-573-eduwell
               <div class="col-12">
                 <nav class="main-nav">
                   <!-- ***** Logo Start ***** -->
-                  <a href="index.html" class="logo">
+                  <a href="index.php" class="logo">
                       <img src="assets/images/templatemo-eduwell.png" alt="EduWell Template">
                   </a>
                   <!-- ***** Logo End ***** -->
                   <!-- ***** Menu Start ***** -->
                   <ul class="nav">
-                    <li><a href="index.html" class="active">Home</a></li>
-                    <li><a href="index.html">Services</a></li>
-                    <li><a href="index.html">Courses</a></li>
+                    <li><a href="index.php" class="active">Home</a></li>
+                    <li><a href="index.php">Services</a></li>
+                    <li><a href="index.php">Courses</a></li>
                     <li class="has-sub">
                         <a href="javascript:void(0)">Pages</a>
                         <ul class="sub-menu">
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="our-services.html">Our Services</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="our-services.php">Our Services</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </li>
-                    <li><a href="index.html">Testimonials</a></li> 
-                    <li><a href="index.html">Contact Us</a></li> 
+                    <li><a href="index.php">Testimonials</a></li>
+                    <li><a href="index.php">Contact Us</a></li>
                   </ul>      
                   <a class='menu-trigger'>
                       <span>Menu</span>

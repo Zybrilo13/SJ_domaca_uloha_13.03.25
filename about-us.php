@@ -39,25 +39,25 @@ https://templatemo.com/tm-573-eduwell
               <div class="col-12">
                 <nav class="main-nav">
                   <!-- ***** Logo Start ***** -->
-                  <a href="index.html" class="logo">
+                  <a href="index.php" class="logo">
                       <img src="assets/images/templatemo-eduwell.png" alt="EduWell Template">
                   </a>
                   <!-- ***** Logo End ***** -->
                   <!-- ***** Menu Start ***** -->
                   <ul class="nav">
-                    <li><a href="index.html" class="active">Home</a></li>
-                    <li><a href="index.html">Services</a></li>
-                    <li><a href="index.html">Courses</a></li>
+                    <li><a href="index.php" class="active">Home</a></li>
+                    <li><a href="index.php">Services</a></li>
+                    <li><a href="index.php">Courses</a></li>
                     <li class="has-sub">
                         <a href="javascript:void(0)">Pages</a>
                         <ul class="sub-menu">
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="our-services.html">Our Services</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="our-services.php">Our Services</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </li>
-                    <li><a href="index.html">Testimonials</a></li> 
-                    <li><a href="index.html">Contact Us</a></li> 
+                    <li><a href="index.php">Testimonials</a></li>
+                    <li><a href="index.php">Contact Us</a></li>
                 </ul>         
                   <a class='menu-trigger'>
                       <span>Menu</span>
@@ -175,7 +175,7 @@ https://templatemo.com/tm-573-eduwell
                           <span><a href="#">Twitter</a></span>
                           <span class="last-span"><a href="#">Linkedin</a></span>
                           <div class="text-button">
-                            <a href="contact-us.html">Contact Member</a>
+                            <a href="contact-us.php">Contact Member</a>
                           </div>
                         </div>
                         <div class="right-image">
@@ -192,7 +192,7 @@ https://templatemo.com/tm-573-eduwell
                           <span><a href="#">Twitter</a></span>
                           <span class="last-span"><a href="#">Linkedin</a></span>
                           <div class="text-button">
-                            <a href="contact-us.html">Contact Member</a>
+                            <a href="contact-us.php">Contact Member</a>
                           </div>
                         </div>
                         <div class="right-image">
@@ -209,7 +209,7 @@ https://templatemo.com/tm-573-eduwell
                           <span><a href="#">Twitter</a></span>
                           <span class="last-span"><a href="#">Linkedin</a></span>
                           <div class="text-button">
-                            <a href="contact-us.html">Contact Member</a>
+                            <a href="contact-us.php">Contact Member</a>
                           </div>
                         </div>
                         <div class="right-image">
@@ -226,7 +226,7 @@ https://templatemo.com/tm-573-eduwell
                           <span><a href="#">Twitter</a></span>
                           <span class="last-span"><a href="#">Linkedin</a></span>
                           <div class="text-button">
-                            <a href="contact-us.html">Contact Member</a>
+                            <a href="contact-us.php">Contact Member</a>
                           </div>
                         </div>
                         <div class="right-image">
@@ -243,7 +243,7 @@ https://templatemo.com/tm-573-eduwell
                             <span><a href="#">Twitter</a></span>
                             <span class="last-span"><a href="#">Linkedin</a></span>
                             <div class="text-button">
-                              <a href="contact-us.html">Contact Member</a>
+                              <a href="contact-us.php">Contact Member</a>
                             </div>
                           </div>
                           <div class="right-image">
@@ -274,7 +274,7 @@ https://templatemo.com/tm-573-eduwell
           <h4>Up to 50% OFF For 1+ courses</h4>
           <p>Kogi VHS freegan bicycle rights try-hard green juice probably haven't heard of them cliche la croix af chillwave.</p>
           <div class="white-button">
-            <a href="contact-us.html">View Courses</a>
+            <a href="contact-us.php">View Courses</a>
           </div>
         </div>
       </div>
@@ -375,7 +375,7 @@ https://templatemo.com/tm-573-eduwell
               <li>- Scenester normcore mumblecore snackwave.</li>
             </ul>
             <div class="main-button-gradient">
-              <a href="our-services.html">Our Services</a>
+              <a href="our-services.php">Our Services</a>
             </div>
           </div>
         </div>
